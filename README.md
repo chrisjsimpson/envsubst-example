@@ -14,3 +14,5 @@ export PORT=1234
 ```
 cat template.conf | envsubst > server.conf
 ```
+
+## 4. Look at server.conf
